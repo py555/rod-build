@@ -5,25 +5,24 @@
     <title>Dashboard</title>
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+    <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Source+Sans+Pro'>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 
     <style>
+        html, body {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 400;
+        }
         a { cursor: pointer; }
-        #app { 
+        .app { 
             background-color: #222222;
             overflow: auto;
+            display: flex;
+            flex-direction: column;
         }
         .help-block { font-size: 12px; color: #a94442;}
         .content { height: calc(100vh - 89px - 133px); }
         .MuiSvgIcon-root { font-size: 2.0rem !important; }
-        @font-face {
-            font-family: 'Source Sans Pro Light';
-            src: local('Source Sans Pro Light');
-        }
-        @font-face {
-            font-family: 'Source Sans Pro Regular';
-            src: local('Source Sans Pro Regular');
-        }
     </style>
 </head>
 <body>
