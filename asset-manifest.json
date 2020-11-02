@@ -1,8 +1,8 @@
 {
   "files": {
     "public/main.js": "/bundle.js",
-    "public/login.png": "/084f219a6fad86952ad150b9cded27d2.png",
     "public/logo.png": "/1199a1282e9f53978f811788fdece922.png",
+    "public/login.jpeg": "/146cc671e88c101d9ac458e4ac408919.jpeg",
     "public/loading.gif": "/149a78232505d1b5589b057cabee1262.gif",
     "public/G80-studio.png": "/175f1f6459eb7a9c5ca65dab0a59bc3a.png",
     "public/GV80.png": "/177f903e1e051cf7e6147005b77a848b.png",
@@ -12,6 +12,7 @@
     "public/menu_sm.png": "/5ad3b1f0979c5cecf0c92f77a9a3a7f4.png",
     "public/editproject.png": "/5b74fc7da686e58a04f64cdac6de2061.png",
     "public/G90-studio.png": "/5c5b8c2587aa8fc3f6b0045a25ac81c9.png",
+    "public/lock.svg": "/6f859f61867dabbed3cbc0c37acabf41.svg",
     "public/back.png": "/8119109a49717113df34937aeb77cead.png",
     "public/G80.png": "/92aeaa7491311a03958f817ba8e30c63.png",
     "public/more.png": "/9a1f1d4f0702ff58708ef9722ba621a7.png",
